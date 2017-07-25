@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Task List</string>
+    <string name="item_title">Заметки</string>
+    <string name="action_new">Добавить</string>
+    <string name="action_about">О приложении</string>
+
+    <string name="app_developer">2015 McLaLa</string>
+    <string name="app_version">Версия</string>
+
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+
+    <string name="item_deleted">Заметка была удалена.</string>
+    <string name="list_deleted">Список был удален.</string>
+    <string name="item_changed">Заметка была изменена.</string>
+    <string name="list_changed">Список был изменен.</string>
+
+    <string name="add_new_item">Создать новую заметку</string>
+    <string name="add_new_list">Создать новый список</string>
+    <string name="edit_item">Изменить заметку</string>
+    <string name="edit_list">Изменить список</string>
+
+    <string name="cancel">Отменить</string>
+    <string name="save">Сохранить</string>
+
+</resources>

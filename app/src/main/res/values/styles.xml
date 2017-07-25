@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar" />
+
+    <style name="WATheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/WATheme.ActionBar</item>
+        <item name="actionBarStyle">@style/WATheme.ActionBar</item>
+    </style>
+
+    <style name="WATheme.ActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:displayOptions">showHome|showTitle</item>
+        <item name="displayOptions">showHome|showTitle</item>
+    </style>
+
+</resources>

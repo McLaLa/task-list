@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Task List</string>
+    <string name="item_title">Notes</string>
+    <string name="action_new">Add</string>
+    <string name="action_about">About</string>
+
+    <string name="app_developer">2015 McLaLa</string>
+    <string name="app_version">Version</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <string name="item_deleted">Task has been deleted.</string>
+    <string name="list_deleted">List has been deleted.</string>
+    <string name="item_changed">Task has been changed.</string>
+    <string name="list_changed">List has been changed.</string>
+
+    <string name="add_new_item">Add new task</string>
+    <string name="add_new_list">Add new list</string>
+    <string name="edit_item">Edit task name</string>
+    <string name="edit_list">Edit list name</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>c
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Task List</string>
+    <string name="item_title">Anteckningar</string>
+    <string name="action_new">Lägg till</string>
+    <string name="action_about">Om</string>
+
+    <string name="app_developer">2015 McLaLa</string>
+    <string name="app_version">Version</string>
+
+    <string name="edit">Ändra</string>
+    <string name="delete">Ta bort</string>
+
+    <string name="item_deleted">Antekningen har tagits bort.</string>
+    <string name="list_deleted">Listan har tagits bort.</string>
+    <string name="item_changed">Anteckningen har ändrats.</string>
+    <string name="list_changed">Listan har ändrats.</string>
+
+    <string name="add_new_item">Lägg till ny anteckning</string>
+    <string name="add_new_list">Lägg till ny lista</string>
+    <string name="edit_item">Ändra anteckningen</string>
+    <string name="edit_list">Ändra listan</string>
+
+    <string name="cancel">Avbryt</string>
+    <string name="save">Spara</string>
+
+</resources>

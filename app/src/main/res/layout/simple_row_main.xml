@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="10dp"
+        android:layout_height="85dp"
+        android:textStyle="italic"
+        android:id="@+id/doneView"
+        android:background="#ffff0000"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="list large"
+        android:id="@+id/rowTextView"
+        android:layout_toLeftOf="@+id/icon"
+        android:layout_toRightOf="@+id/doneView"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="list medium"
+        android:id="@+id/rowTextView2"
+        android:layout_below="@+id/rowTextView"
+        android:layout_toLeftOf="@+id/icon"
+        android:layout_toRightOf="@+id/doneView"/>
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="wrap_content"
+        android:layout_height="85dp"
+        android:layout_alignParentTop="true"
+        android:inputType="textCapSentences"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ic_arrow" />
+
+</RelativeLayout>
+
